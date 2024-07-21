@@ -1,0 +1,22 @@
+{
+  "id": "тут-броник_-1924-60-1309",
+  "name": "тут броник",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16188675-waypoint-icon.png",
+  "x": -1924,
+  "y": -60,
+  "z": -1309,
+  "r": 8,
+  "g": 250,
+  "b": 253,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

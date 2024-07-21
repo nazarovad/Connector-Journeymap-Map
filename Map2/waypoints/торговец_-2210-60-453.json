@@ -1,0 +1,22 @@
+{
+  "id": "торговец_-2210-60-453",
+  "name": "торговец",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10762270-waypoint-icon.png",
+  "x": -2210,
+  "y": -60,
+  "z": -453,
+  "r": 91,
+  "g": 199,
+  "b": 226,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

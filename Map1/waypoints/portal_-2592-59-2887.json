@@ -1,0 +1,22 @@
+{
+  "id": "portal_-2592-59-2887",
+  "name": "portal",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--787133-waypoint-icon.png",
+  "x": -2592,
+  "y": 59,
+  "z": 2887,
+  "r": 243,
+  "g": 253,
+  "b": 67,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

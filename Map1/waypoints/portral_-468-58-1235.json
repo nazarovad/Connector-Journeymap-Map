@@ -1,0 +1,22 @@
+{
+  "id": "portral_-468-58-1235",
+  "name": "portral",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8328658-waypoint-icon.png",
+  "x": -468,
+  "y": 58,
+  "z": 1235,
+  "r": 128,
+  "g": 234,
+  "b": 46,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

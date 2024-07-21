@@ -1,0 +1,22 @@
+{
+  "id": "дача_-1879-60-220",
+  "name": "дача",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12158138-waypoint-icon.png",
+  "x": -1879,
+  "y": -60,
+  "z": -220,
+  "r": 70,
+  "g": 123,
+  "b": 70,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": "первый-город_-2765-64-4243",
+  "name": "первый город",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16140672-waypoint-icon.png",
+  "x": -2765,
+  "y": 64,
+  "z": 4243,
+  "r": 9,
+  "g": 182,
+  "b": 128,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

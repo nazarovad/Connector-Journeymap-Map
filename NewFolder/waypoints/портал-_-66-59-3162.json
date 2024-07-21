@@ -1,0 +1,22 @@
+{
+  "id": "портал-_-66-59-3162",
+  "name": "портал ",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5617357-waypoint-icon.png",
+  "x": -66,
+  "y": 59,
+  "z": 3162,
+  "r": 170,
+  "g": 73,
+  "b": 51,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_end"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
